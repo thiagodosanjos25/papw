@@ -20,6 +20,11 @@
   <sonar.organization>thiagodosanjos25</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.login>462fd1e025353d9cd9751a6eb101cf668435f87c</sonar.login>
+		
+	<sonar.projectKey>thiagodosanjos25_papw</sonar.projectKey>
+	  <sonar.organization>thiagodosanjos25</sonar.organization>
+	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	  <sonar.login>b02cffe7839ed7ada241978892d18b2aaec5c4ef</sonar.login>		
 </properties>
 
 	<dependencies>
