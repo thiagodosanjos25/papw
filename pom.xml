@@ -21,10 +21,10 @@
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   <sonar.login>462fd1e025353d9cd9751a6eb101cf668435f87c</sonar.login>
 		
-	<sonar.projectKey>thiagodosanjos25_papw</sonar.projectKey>
+	<sonar.projectKey>TAP2</sonar.projectKey>
 	  <sonar.organization>thiagodosanjos25</sonar.organization>
-	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	  <sonar.login>b02cffe7839ed7ada241978892d18b2aaec5c4ef</sonar.login>		
+	  <sonar.host.url>http://ip172-18-0-38-brg1a75im9m0009c7h20-9000.direct.labs.play-with-docker.com>
+	  <sonar.login>d778bd65da235fff63d610cd34123cf0e5eb8157</sonar.login>		
 </properties>
 
 	<dependencies>
